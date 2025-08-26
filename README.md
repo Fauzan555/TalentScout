@@ -23,3 +23,9 @@ GitHub
 +1
 
 Assignment API: POST /api/evaluate returns structured feedback, numeric score JSON (when available), and plagiarism info. Endpoints to fetch generated model answers and rubrics are also included.
+
+# Prerequisites
+
+Python 3.10+ recommended
+
+A Google AI Studio / Gemini API key
